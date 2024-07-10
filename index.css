@@ -1,0 +1,19 @@
+a{
+    color: rgb(9, 7, 150);
+    text-decoration: none;
+}
+#qt{
+    background-color: rgb(238, 232, 225);
+}
+#ab{
+    font-family: Arial, Helvetica, sans-serif; background-color: azure;
+}
+#as{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;background: #c8b7b7;
+}
+.abs{
+    background-color: rgb(240, 203, 203);
+    border: 2px solid palevioletred;
+    margin: 10% 20% 10% 20%;
+    padding: 10px 20px 10px 20px;
+}
